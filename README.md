@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://visitor-badge.glitch.me/badge?page_id=visitor-badge.glitch.me]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/anishmprasad) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anishmprasad.visitor-badge)](https://github.com/anishmprasad) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anishmprasad)
 
 
 
