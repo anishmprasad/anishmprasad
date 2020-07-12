@@ -15,10 +15,10 @@
 
 **Check out links below** to know [more](https://anishmprasad.com) about me:
 
-- :toolbox: **[Linkedin](https://ckeditor.com/cke4/addon/MathEx)**
+- :link: **[Linkedin](https://ckeditor.com/cke4/addon/MathEx)**
 - :bird: **[Twitter](https://ckeditor.com/cke4/addon/MathEx)**
-- :electric_plug: **[Angelist](https://www.npmjs.com/~anishmprasad)**
-- :thread: **[Product Hunt](https://www.producthunt.com/@anish_m_prasad1)**
+- :link: **[Angelist](https://www.npmjs.com/~anishmprasad)**
+- ⚡ **[Product Hunt](https://www.producthunt.com/@anish_m_prasad1)**
 
 
 
