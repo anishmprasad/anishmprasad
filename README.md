@@ -8,7 +8,7 @@
 
 **Check out opensource links below** to know more
 
- - :toolbox: **[MathEx for CKEditor](https://ckeditor.com/cke4/addon/MathEx)**
+ - :toolbox: **[CKEditor Addons](https://ckeditor.com/cke4/addon/MathEx)**
  - :electric_plug: **[npm packages](https://www.npmjs.com/~anishmprasad)**
  - :thread: **[stackoverflow](https://stackoverflow.com/users/2706355/anish-m-prasad)**
  - :trophy: **[medium](https://medium.com/@anish.m.prasad)**
