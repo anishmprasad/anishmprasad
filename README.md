@@ -17,9 +17,9 @@
 
 **Check out links below** to know [more](https://anishmprasad.com) about me:
 
- - :link: **[Linkedin](https://ckeditor.com/cke4/addon/MathEx)**
- - :bird: **[Twitter](https://ckeditor.com/cke4/addon/MathEx)**
- - :link: **[Angelist](https://www.npmjs.com/~anishmprasad)**
+ - :link: **[Linkedin](https://www.linkedin.com/in/anishmprasad/)**
+ - :bird: **[Twitter](https://twitter.com/AnishMPrasad)**
+ - :link: **[AngelList](https://angel.co/u/anish_m_prasad)**
  - ⚡ **[Product Hunt](https://www.producthunt.com/@anish_m_prasad1)**
 
 
