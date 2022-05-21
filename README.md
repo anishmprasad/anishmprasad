@@ -1,4 +1,4 @@
-<h4>Hi <img src="https://raw.githubusercontent.com/anishmprasad/assets/main/wave.gif" width="22px" /></h1>
+<h3>Hi <img src="https://raw.githubusercontent.com/anishmprasad/assets/main/wave.gif" width="22px" /></h1>
 
 **Glad to see you here!**
 
