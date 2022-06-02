@@ -11,8 +11,8 @@
  - :toolbox: **[CKEditor Addons](https://ckeditor.com/cke4/addon/MathEx)**
  - :electric_plug: **[npm packages](https://www.npmjs.com/~anishmprasad)**
  - :thread: **[stackoverflow](https://stackoverflow.com/users/2706355/anish-m-prasad)**
- - :trophy: **[medium](https://medium.com/@anish.m.prasad)**
- - :unicorn: **[more](https://github.com/anishmprasad)**
+ - :trophy: **[Medium](https://medium.com/@anish.m.prasad)**
+ - :unicorn: **[More](https://github.com/anishmprasad)**
 
 
 **Check out links below** to know [more](https://anishmprasad.com) about me:
